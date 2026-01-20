@@ -1,5 +1,6 @@
 # Retail Sales Performance & Customer Insights Dashboard (Excel)
-![Healthcare Insights](Healthcare%20Insights%20–%20Summary.png)
+![Retail Sales Dashboard](Dashboard.png)
+
 
 ## 📌 Project Overview
 This project is an interactive **Retail Sales Performance & Customer Insights Dashboard** built using **Microsoft Excel**.  
