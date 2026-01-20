@@ -1,5 +1,5 @@
 # Retail Sales Performance & Customer Insights Dashboard (Excel)
-![Retail Sales Dashboard](Dashboad.png)
+![Retail Sales Dashboard](Dashboard.png)
 
 
 ## 📌 Project Overview
