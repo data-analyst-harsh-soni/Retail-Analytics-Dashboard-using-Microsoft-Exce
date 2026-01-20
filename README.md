@@ -1,5 +1,5 @@
 # Retail Sales Performance & Customer Insights Dashboard (Excel)
-
+![Dashboard Preview](Dashboard.png)
 ## 📌 Project Overview
 This project is an interactive **Retail Sales Performance & Customer Insights Dashboard** built using **Microsoft Excel**.  
 The dashboard provides a clear and visual understanding of customer purchasing behavior, sales distribution, payment preferences, seasonal trends, and profitability across locations.
